@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1450398748 source:c:\users\alejandro\documents\listaenlazada\main.cpp
+	"lista.h"
+	<iostream>
+
+1450398695 c:\users\alejandro\documents\listaenlazada\include\lista.h
+	"nodo.h"
+
+1449705499 c:\users\alejandro\documents\listaenlazada\include\nodo.h
+
+1450399199 source:c:\users\alejandro\documents\listaenlazada\src\lista.cpp
+	"lista.h"
+	"nodo.h"
+	<iostream>
+	<cstdlib>
+
+1449705809 source:c:\users\alejandro\documents\listaenlazada\src\nodo.cpp
+	"nodo.h"
+
+1503752662 source:c:\users\alejandro\desktop\listaenlazada\main.cpp
+	"lista.h"
+	<iostream>
+
+1503752658 c:\users\alejandro\desktop\listaenlazada\include\lista.h
+	"nodo.h"
+
+1449705499 c:\users\alejandro\desktop\listaenlazada\include\nodo.h
+
+1503600141 source:c:\users\alejandro\desktop\listaenlazada\src\lista.cpp
+	"lista.h"
+	"nodo.h"
+	<iostream>
+	<cstdlib>
+
+1449705809 source:c:\users\alejandro\desktop\listaenlazada\src\nodo.cpp
+	"nodo.h"
+
