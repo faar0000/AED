@@ -1,0 +1,18 @@
+cancer$Es el crecimiento anormal de células malignas en el organismo.@
+alzheimer$Enfermedad neurodegenerativa de causas desconocidas.Provoca deterioro cognitivo, trastornos en la conducta y pérdida de la memoria@
+sida$Causada por el virus de inmunodeficiencia humana (VIH), es una enfermedad infecciosa de consecuencias graves.@
+lupus$Es impredecible y puede provocar artritis, anemia, erupciones cutáneas, etc. Además, ataca órganos internos.@
+diabetes$Generada por un desorden metabólico por el cual la persona tiene demasiada azúcar en la sangre y no produce suficiente insulina.@
+ebola$Fiebre hemorrágica transmitida de los primates a los humanos que puede ser mortal.El virus del Ébola no tiene cura.@
+asma$Se produce en los pulmones e inflama las vías respiratorias. Si no se lleva un tratamiento adecuado puede llegar a ser mortal.@
+poliomielitis$Enfermedad viral que ataca al sistema nervioso y puede llegar a causar parálisis total o parcial.@
+gripe$La causa un virus que afecta a las vías respiratorias y que siempre está mutando.@
+obesidad$En los últimos años ha crecido en forma alarmante el número de personas con exceso de peso, especialmente entre los niños.@
+parkinson$Es una enfermedad degenerativa producida por la muerte de neuronas de la sustancia negra, que producen dopamina.@
+papiloma$Son infecciones virales incurables, aunque existen tratamientos capaces de atenuar o modificar los síntomas o la enfermedad.@
+tuberculosis$Es una enfermedad infecciosa y una de las principales causas de mortalidad a nivel mundial.@ 
+hepatitis$Es una infección vírica del hígado que puede dar lugar tanto a un cuadro agudo como a una enfermedad crónica.@
+colera$Es una enfermedad diarreica aguda que, si no se trata, puede causar la muerte en cuestión de horas.@
+gonorrea$Es una infección causada por la bacteria Neisseria Gonorrhoeae. Puede causar infección de la uretra, el cervix, el recto y la garganta.@
+osteoporosis$La osteoporosis (hueso poroso) es una enfermedad en la cual la densidad y la calidad de los huesos están reducidas.@
+sarampiom$Causada por el virus del sarampión, también causa fiebre y piel erupciones.@			
